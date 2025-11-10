@@ -1,7 +1,7 @@
-Prateek Jaiswal's Portfolio Website
+Vandit Shah's Portfolio Website
 ===============================
 
-![Portfolio Preview](https://github.com/user-attachments/assets/523fdb62-12c5-48bf-a325-ca88f39b89e9)\
+![Portfolio Preview](https://vandit-shah.me/images/og-image.png)\
 
 A modern, single-page portfolio website built with **Next.js** and **Tailwind CSS**, showcasing my skills, projects, and journey as a full-stack web developer. This project is designed to be easily customizable via a data.json file, allowing anyone to adapt it for their own portfolio by simply updating the data.
 
@@ -9,7 +9,7 @@ A modern, single-page portfolio website built with **Next.js** and **Tailwind CS
 -----------
 
 -   **Single-Page Design**: A sleek, scrollable layout with sections for Home, Skills, Projects, About Me, and Contact.
--   **Dedicated Projects Page**: A /projects route to display all projects, categorized by tech stack (e.g., Full Stack, React, Next.js) with a filtering feature.
+-   **Dedicated Projects Page**: A /projects route to display all projects, categorized by tech stack (e.g., Full Stack, React, Next.js, Blockchain) with a filtering feature.
 -   **Modern Techy Theme**: Dark background with purple accents, monospaced fonts, and gradient borders for a developer-centric aesthetic.
 -   **SEO Optimized**: Includes meta tags, schema markup, and a sitemap for better search engine ranking (e.g., optimized for "Vandit Shah").
 -   **Responsive Design**: Fully responsive across devices using Tailwind CSS, ensuring a great experience on mobile, tablet, and desktop.
@@ -52,7 +52,7 @@ A modern, single-page portfolio website built with **Next.js** and **Tailwind CS
 
 1.  **Clone the Repository**:
 
-    `git clone https://github.com/PrateekJaiswal16/prateek-portfolio.git cd portfolio`
+    `git clone https://github.com/ShahVandit8/portfolio-v2.git cd portfolio`
 
 2.  **Install Dependencies**:
 
