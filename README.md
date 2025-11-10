@@ -12,7 +12,7 @@ A modern, single-page portfolio website built with **Next.js** and **Tailwind CS
 -   **Single-Page Design**: A sleek, scrollable layout with sections for Home, Skills, Projects, About Me, and Contact.
 -   **Dedicated Projects Page**: A /projects route to display all projects, categorized by tech stack (e.g., Full Stack, React, Next.js) with a filtering feature.
 -   **Modern Techy Theme**: Dark background with purple accents, monospaced fonts, and gradient borders for a developer-centric aesthetic.
--   **SEO Optimized**: Includes meta tags, schema markup, and a sitemap for better search engine ranking (e.g., optimized for "Vandit Shah").
+-   **SEO Optimized**: Includes meta tags, schema markup, and a sitemap for better search engine ranking (e.g., optimized for "Prateek Jaiswal").
 -   **Responsive Design**: Fully responsive across devices using Tailwind CSS, ensuring a great experience on mobile, tablet, and desktop.
 -   **Interactive Elements**:
     -   Navbar with active link highlighting based on scroll position.
@@ -112,7 +112,7 @@ A modern, single-page portfolio website built with **Next.js** and **Tailwind CS
 -   **Navbar**: Highlights the active section as you scroll (e.g., #projects turns white when viewing the Projects section).
 -   **Hero Section**: Features a video background with a fallback image, a typewriter effect for titles, and SEO-optimized <h1> placement.
 -   **Projects Page**: Displays all projects at /projects, with category filtering (e.g., Full Stack, React) and a fade-in animation for project cards.
--   **SEO Optimization**: Includes meta tags, schema markup, and a sitemap to rank for your name (e.g., "Vandit Shah").
+-   **SEO Optimization**: Includes meta tags, schema markup, and a sitemap to rank for your name (e.g., "Prateek Jaiswal").
 -   **Performance**: Uses server-side rendering for most components, with client-side interactivity isolated to specific features (e.g., filtering, scroll effects).
 
 📸 Screenshots
@@ -138,7 +138,5 @@ Contributions are welcome! If you'd like to improve this project, please follow 
 📬 Contact
 ----------
 
--   **Name**: Vandit Shah
--   **Email**: <shahvandit8@gmail.com>
--   **GitHub**: [github.com/ShahVandit8](https://github.com/ShahVandit8)
--   **Portfolio**: [vandit-shah.me](https://vandit-shah.me)
+-   **Name**: Prateek Jaiswal
+-   **Email**: <prateekja.swal16@gmail.com>
