@@ -1,0 +1,313 @@
+{
+    "data": {
+        "fullName": "Prateek Jaiswal",
+        "navtext": "Prateek Jaiswal",
+        "email": "prateekja.swal16@gmail.com",
+        "titleArray": [
+            "Full-Stack Web Developer",
+            "Software Developer",
+            "AI/ML Enthusiast"
+        ],
+        "resumeLink": "https://drive.google.com/file/d/1e_Bk8GMHAdAQJajLs2609A3FNserWE-Z/view?usp=sharing",
+        "skills": [
+            "/icons/cpp.png",
+            "/icons/JavaScript.png",
+            "/icons/React.png",
+            "/icons/Nextjs.png",
+            "/icons/Tailwind.png",
+            "/icons/shadcn.png",
+            "/icons/Typescript.png",
+            "/icons/Python.png",
+            "/icons/Nodejs.png",
+            "/icons/ExpressJs.png",
+            "/icons/MongoDB.png",
+            "/icons/MySQL.png",
+            "/icons/Java.png",
+            "/icons/Git.png",
+            "/icons/Figma.png",
+            "/icons/langChain.png",
+            "/icons/langGraph.png",
+            "/icons/Google-Cloud.png",
+            "/icons/AWS.png",
+            "/icons/Docker.png"
+        ],
+        "projects": [
+            {
+                "title": "CashFlow - Personal Finance Tracker",
+                "type": "Cashflow",
+                "description": "CashFlow is a full-stack decentralized application for tracking personal finance events such as income, expenses, and budget using smart contracts and NFTs. It includes a Next.js frontend and Hardhat for Ethereum smart contract development.",
+                "techStack": [
+                    "Reactjs",
+                    "JavaScript",
+                    "Nodejs",
+                    "Clerk",
+                    "AWS",
+                    "Docker",
+                    "Github Actions",
+                    "MongoDB"
+                ],
+                "category": "Full Stack",
+                "image": "/images/projects/cashflow.png",
+                "liveLink": "http://ec2-13-235-51-33.ap-south-1.compute.amazonaws.com/home",
+                "githubLink": "https://github.com/PrateekJaiswal16/CashFlow"
+            },
+            {
+                "title": "Dastabase - AI",
+                "type": "Dastabase",
+                "description": "Dastabase AI is a full-stack document assistant and food review application tailored for food-loving groups and families. It enables users to document and analyze their culinary experiences by logging detailed restaurant visits, and leveraging smart analytics and suggestion engines to guide future food adventures, with AI capabilities for document understanding.",
+                "techStack": [
+                    "LangChain",
+                    "LangGrap",
+                    "OpenAI",
+                    "Olama",
+                    "ChromaDB"
+                ],
+                "category": "AI",
+                "image": "/images/projects/dastabase.png",
+                "githubLink": "http://github.com/PrateekJaiswal16/DastaBaseAI?tab=readme-ov-file"
+            },
+            {
+                "title": "Mock-Expert",
+                "type": "AI-Driven Interview Prep",
+                "description": "Mock-Expert is an AI-driven interview preparation platform designed to visualize and simulate real-time mock interviews. It enables users to practice, create personalized interview scenarios, and receive instant feedback, leveraging AI for interactive and tailored interview experiences.",
+                "techStack": [
+                    "Nodejs",
+                    "React",
+                    "OpenAI",
+                    "TailwindCSS",
+                    "Shadcn",
+                    "Zustand",
+                    "MongoDB"
+                ],
+                "category": "Full Stack",
+                "image": "/images/projects/mockexpert.png",
+                "liveLink": "http://ec2-3-108-228-214.ap-south-1.compute.amazonaws.com/home",
+                "githubLink": "https://github.com/PrateekJaiswal16/HackBytes3.O_Frontend"
+            },
+            {
+                "title": "Gup-Shup",
+                "type": "Gup-Shup Messanger App",
+                "description": "Gup-Shup is a full-stack messenger application designed for real-time communication. It allows users to create profiles, connect with friends, send messages, and share moments, with features for interactive chat and user management.",
+                "techStack": [
+                    "Socket.IO",
+                    "Reactjs",
+                    "Nodejs",
+                    "Zustand",
+                    "Express",
+                    "MongoDB"
+                ],
+                "category": "Full Stack",
+                "image": "/images/projects/gupshup.png",
+                "liveLink": "https://gupshup-chatty.onrender.com/",
+                "githubLink": "https://github.com/PrateekJaiswal16/GupShup_chatty"
+            },
+            {
+                "title": "IIIT-Surat Website",
+                "type": "IIIT-Surat Official Website",
+                "description": "IIIT-Surat Website is the official online portal for the Indian Institute of Information Technology Surat. It provides comprehensive information about the institute, including admissions, academics, departments, campus life, and research initiatives, serving as a central hub for all official communications.",
+                "techStack": [
+                    "Reactjs",
+                    "Django",
+                    "TailwindCss",
+                    "MySql"
+                ],
+                "category": "React",
+                "image": "/images/projects/IIITSurat.png",
+                "liveLink": "",
+                "githubLink": "https://github.com/ShahVandit8/nft_lending_contracts"
+            },
+            {
+                "title": "Jumpster",
+                "type": "Jumpster - A doodle game",
+                "description": "Jumpster is a full-stack game application, likely a doodle-style game, designed to provide an engaging and interactive experience. It facilitates user interaction and gameplay, offering a fun and dynamic platform for entertainment.",
+                "techStack": [
+                    "React",
+                    "Tailwind",
+                    "JavaScript",
+                    "Node.js",
+                    "Express.js",
+                    "MongoDB"
+                ],
+                "category": "Full Stack",
+                "image": "/images/projects/LMS.png",
+                "liveLink": "https://thedigitalworkstation.netlify.app/",
+                "githubLink": ""
+            },
+            {
+                "title": "Developer Portfolio Website",
+                "type": "Portfolio",
+                "description": "A customizable React.js portfolio template. Update data.json to personalize—no coding needed! Perfect for showcasing your work and generating a customized README.md for your GitHub profile, highlighting skills, experience, and projects.",
+                "techStack": [
+                    "React",
+                    "TailwindCSS",
+                    "JavaScript",
+                    "Vercel"
+                ],
+                "category": "React",
+                "image": "/images/projects/portfolio.png",
+                "liveLink": "https://vandit-shah.vercel.app/",
+                "githubLink": "https://github.com/ShahVandit8/portfolio"
+            }
+        ],
+        "certificates": [
+            {
+                "title": "React - The Complete Guide (incl Hooks, React Router, Redux)",
+                "issuer": "Udemy",
+                "description": "Mastered React.js development, including hooks, React Router, Redux, and building complex, scalable web applications. Gained expertise in component-based architecture and state management.",
+                "skills": [
+                    "Reactjs",
+                    "JavaScript",
+                    "Hooks",
+                    "Redux",
+                    "React Router",
+                    "Web Development"
+                ],
+                "category": "Frontend",
+                "image": "/images/certificates/react-udemy.png",
+                "credentialLink": "https://drive.google.com/file/d/1gdhd9e1eOnyuMKbFMblLe2duO0NtY6WU/view?usp=sharing",
+                "issueDate": "Jan 2024"
+            },
+            {
+                "title": "Getting Started with Artificial Intelligence",
+                "issuer": "IBM SkillsBuild",
+                "description": "Developed a foundational understanding of Artificial Intelligence concepts, machine learning algorithms, and practical applications. Explored AI tools and techniques for problem-solving.",
+                "skills": [
+                    "Artificial Intelligence",
+                    "Machine Learning",
+                    "AI Concepts",
+                    "Data Science",
+                    "IBM SkillsBuild"
+                ],
+                "category": "AI",
+                "image": "/images/certificates/ibm-ai.png",
+                "credentialLink": "https://drive.google.com/file/d/1RakDolD5JP1Ii-u9C8YnIW6AgiC2xei_/view?usp=sharing",
+                "issueDate": "Mar 2024"
+            },
+            {
+            "title": "Flipkart Grid 7.0 Semi-Finalist",
+            "issuer": "Flipkart",
+            "description": "Achieved semi-finalist position in Flipkart Grid 7.0 by successfully solving challenging Data Structures and Algorithms (DSA) problems. Demonstrated strong problem-solving abilities and competitive programming skills.",
+            "skills": [
+                    "Data Structures",
+                    "Algorithms",
+                    "Competitive Programming",
+                    "Problem Solving",
+                    "Software Engineering"
+                ],
+                "category": "Competition",
+                "image": "/images/certificates/flipkart-grid.png",
+                "credentialLink": "https://drive.google.com/file/d/1vFzifNkJJ-XDnkL2_spW3Gg-8UkIXTk0/view?usp=sharing",
+                "issueDate": "Aug 2025" 
+            },
+            {
+                "title": "Web Developer Lead",
+                "issuer": "Google Developer Club, IIIT Surat",
+                "description": "Led a team of web developers at the Google Developer Club, IIIT Surat. Responsible for project management, technical guidance, and fostering a collaborative environment for building innovative web solutions.",
+                "skills": [
+                    "Web Development",
+                    "Team Leadership",
+                    "Project Management",
+                    "Mentorship",
+                    "Collaboration"
+                ],
+                "category": "Leadership",
+                "image": "/images/certificates/gdsc-iiitsurat.png",
+                "credentialLink": "https://drive.google.com/file/d/1upSyLrhbMTmgiKuUVINVTUDaitKA1n7v/view?usp=sharing",
+                "issueDate": "Jun 2023"
+            },
+            {
+                "title": "1st Position - IPL Auction E-Summit",
+                "issuer": "IIIT Surat",
+                "description": "Secured first position at the IPL Auction E-Summit organized by IIIT Surat. Successfully analyzed player data and developed a machine learning model to accurately predict player prices, gaining a significant competitive advantage.",
+                "skills": [
+                    "Machine Learning",
+                    "Data Analysis",
+                    "Predictive Modeling",
+                    "Competitive Strategy",
+                    "Sports Analytics"
+                ],
+                "category": "Data Science",
+                "image": "/images/certificates/ipl-auction-iiitsurat.png",
+                "credentialLink": "https://drive.google.com/file/d/1BA7Lc67RUyYujWhKkkea5FvsLYD2p3N2/view?usp=sharing",
+                "issueDate": "Sep 2023"
+            },
+            {
+                "title": "HackByte Participant & Finalist",
+                "issuer": "HackByte",
+                "description": "Qualified among 10,000+ teams to participate in HackByte, where we successfully built a mock interview platform from scratch. Demonstrated strong skills in rapid prototyping, team collaboration, and full-stack development.",
+                "skills": [
+                    "Full-Stack Development",
+                    "Teamwork",
+                    "Rapid Prototyping",
+                    "Competitive Programming",
+                    "Innovation"
+                ],
+                "category": "Hackathon",
+                "image": "/images/certificates/hackbyte.png",
+                "credentialLink": "https://drive.google.com/file/d/1MCFQfdsfe-2MBK1qILTPo2utShsypLdr/view?usp=sharing",
+                "issueDate": "Feb 2024"
+            },
+            {
+                "title": "SSIP Grant Recipient - Disinfectant Robot",
+                "issuer": "Government of Gujarat (SSIP)",
+                "description": "Awarded a grant of INR 200,000 by the Government of Gujarat under the SSIP project for developing a disinfectant robot utilizing UV rays. Recognized for an innovative idea with potential real-world impact.",
+                "skills": [
+                    "Robotics",
+                    "Innovation",
+                    "Project Funding",
+                    "UV Technology",
+                    "Entrepreneurship"
+                ],
+                "category": "Innovation",
+                "image": "/images/certificates/ssip-grant.png",
+                "credentialLink": "https://drive.google.com/file/d/1YH-lmH8L4GcHsFGY5fllEa8vdnDCgj1t/view?usp=sharing",
+                "issueDate": "Jul 2023"
+            },
+            {
+                "title": "Smart India Hackathon (SIH) Qualifier",
+                "issuer": "Smart India Hackathon (from College)",
+                "description": "Our team successfully qualified for the Smart India Hackathon (SIH) grand finale, representing our college. This achievement reflects strong problem-solving skills, teamwork, and innovative thinking.",
+                "skills": [
+                    "Hackathon",
+                    "Problem Solving",
+                    "Team Collaboration",
+                    "Innovation",
+                    "Software Development"
+                ],
+                "category": "Hackathon",
+                "image": "/images/certificates/sih.png",
+                "credentialLink": "https://drive.google.com/file/d/1GjkT4qqFnNGS52wlm3YrVAvUhssg1Dgv/view?usp=sharing",
+                "issueDate": "Sep 2023"
+            }
+        ],
+        "achievements": [
+            "National Semi-Finalist in Flipkart GRiD 7.0 (2025), recognized among top engineering talent nationwide",
+            "Completed a Software Development Engineer (SDE) Internship at Shram Private Limited",
+            "Solved 900+ Data Structures & Algorithms problems on GeeksforGeeks and LeetCode combined",
+            "Achieved a rating of 1781 on LeetCode and 1154 on Codeforces, demonstrating strong problem-solving and competitive programming skills",
+            "Developed the official IIIT Surat college website and the 'Spring Feasta' cultural fest website with user authentication, voting system, and schedule modules",
+            "Technical Head: Led a team of 10 members to organize the 'Robo War' robotics event at IIIT Surat with 100+ participants",
+            "Qualified among 10,000+ participants for Hackbyte 3.0 by IIITDM Jabalpur and developed a project during the 48-hour hackathon",
+            "Led a team of 6 developers that qualified among the top 30 teams in Smart India Hackathon (SIH)",
+            "Cleared HackWithinify for the Software Developer (SDE) role selection process"
+        ],
+    "about": {
+        "main": "I'm Prateek Jaiswal, a final-year B.Tech student at IIIT Surat with a strong foundation in full-stack development, AI, and cloud technologies, maintaining a CGPA of 8.6. I am passionate about building scalable, high-performance applications from the ground up and am actively seeking a full-time Software Development Engineer role where I can contribute to building impactful products.",
+        "skills": [
+        "Full-Stack Development (MERN)",
+        "AI/ML (LangChain, RAG, LangGraph)",
+        "Cloud & DevOps (AWS, Docker, CI/CD)",
+        "Data Structures & Algorithms",
+        "System Design & Architecture"
+        ],
+        "journey": "My journey includes hands-on experience as an SDE Intern at Shram Pvt. Ltd., where I developed responsive UI components with React and implemented a rich text editor. As the Web Dev Lead for GDG, I led the rebuild of our college's official website using React and MySQL. My projects demonstrate my ability to build production-ready systems, such as 'DastaBase AI,' an AI agent using an adaptive RAG pipeline to boost accuracy by 40%, and 'CashFlow,' a MERN finance tracker deployed on AWS EC2 with a full CI/CD pipeline and Redis caching, which reduced data payload by 60%.",
+        "passion": "I am driven by the challenge of solving complex problems, whether it's designing efficient AI-driven workflows, optimizing application performance, or architecting scalable cloud deployments. My strong grasp of Data Structures and Algorithms (900+ problems solved) fuels my passion for writing clean, efficient, and maintainable code.",
+        "connect": "I am actively interviewing for SDE 1 and Full-Stack Developer roles starting in 2026. Please explore my projects and resume, and let's connect to discuss how I can be a valuable asset to your team!"
+    },
+
+        "socialLinks": {
+            "github": "https://github.com/PrateekJaiswal16",
+            "linkedin": "https://www.linkedin.com/in/prateek-jaiswal-b99129250/"
+        }
+    }
+}
