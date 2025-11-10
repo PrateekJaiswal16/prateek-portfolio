@@ -138,6 +138,6 @@ Contributions are welcome! If you'd like to improve this project, please follow 
 ----------
 
 -   **Name**: Vandit Shah
--   **Email**: <shahvandit8@gmail.com>
--   **GitHub**: [github.com/ShahVandit8](https://github.com/ShahVandit8)
--   **Portfolio**: [vandit-shah.me](https://vandit-shah.me)
+-   **Email**: <prateekja!swal16@gmail.com>
+-   **GitHub**: [github.com/PrateekJaiswal16](https://github.com/PrateekJaiswal16/)
+-   **Portfolio**: [prateek-jaiswal.me](https://prateekjaiswal.me)

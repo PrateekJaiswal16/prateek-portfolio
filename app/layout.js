@@ -46,6 +46,7 @@ export const metadata = {
       'Explore Prateek Jaiswal’s portfolio, showcasing skills and projects in full-stack web development and blockchain.',
     url: 'https://vandit-shah.me',
     siteName: 'Prateek Jaiswal Portfolio',
+    
     images: [
       {
         url: 'https://vandit-shah.me/images/og-image.png',
@@ -54,7 +55,7 @@ export const metadata = {
         alt: 'Prateek Jaiswal Portfolio Preview',
       },
     ],
-    logo: 'https://vandit-shah.me/logo/logo.png',
+    logo: 'public/logo/logo.png',
     locale: 'en_US',
     type: 'website',
   },
@@ -128,7 +129,7 @@ export default function RootLayout({ children }) {
             ]),
           }}
         />
-        <meta property="og:logo" content="https://vandit-shah.me/logo/logo.png"></meta>
+        <meta property="og:logo" content="public/logo/logo.png"></meta>
       </head>
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased `} suppressHydrationWarning

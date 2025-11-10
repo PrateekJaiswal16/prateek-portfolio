@@ -15,7 +15,7 @@ const NavbarServer = ({ activeSection, isMobileMenuOpen, toggleMobileMenu, isScr
                     }`}
             >
                 <Link href="/" className="flex items-center rtl:space-x-reverse">
-                    <Image src={Logo} height={25} width={25} alt="Vandit Shah - Logo" priority={true}
+                    <Image src={Logo} height={25} width={25} alt="Prateek Jaiswal - Logo" priority={true}
                         loading="eager" />
                     <span className="ml-2 self-center text-xl md:text-2xl font-semibold whitespace-nowrap text-white font-mono uppercase">
                         {navtext}
@@ -23,7 +23,8 @@ const NavbarServer = ({ activeSection, isMobileMenuOpen, toggleMobileMenu, isScr
                 </Link>
 
                 {/* Hamburger Button for Mobile */}
-                <label className="hamburger lg:hidden">
+                {/* Changed lg:hidden to xl:hidden */}
+                <label className="hamburger xl:hidden">
                     <input
                         type="checkbox"
                         checked={isMobileMenuOpen}
@@ -41,12 +42,15 @@ const NavbarServer = ({ activeSection, isMobileMenuOpen, toggleMobileMenu, isScr
                 </label>
 
                 {/* Navbar Links */}
+                {/* Changed lg:flex and lg:block to xl:flex and xl:block */}
                 <div
-                    className={`w-full lg:flex lg:w-auto ${isMobileMenuOpen ? 'block' : 'hidden'
-                        } lg:block`}
+                    className={`w-full xl:flex xl:w-auto ${isMobileMenuOpen ? 'block' : 'hidden'
+                        } xl:block`}
                     id="navbar-default"
                 >
-                    <ul className="flex flex-col p-1 md:p-4 lg:p-0 md:mt-4 bg-dark lg:bg-transparent lg:flex-row lg:space-x-8 xl:space-x-12 lg:mt-0 lg:border-0">
+                    {/* Changed lg:flex-row, lg:space-x-8, lg:mt-0, lg:border-0 to xl:... */}
+                    {/* The xl:space-x-12 can stay or be adjusted if you prefer more space on very wide screens */}
+                    <ul className="flex flex-col p-1 md:p-4 xl:p-0 md:mt-4 bg-dark xl:bg-transparent xl:flex-row xl:space-x-8 xl:mt-0 xl:border-0">
                         {sections.map((section) => (
                             <li key={section}>
                                 <Link
@@ -54,13 +58,14 @@ const NavbarServer = ({ activeSection, isMobileMenuOpen, toggleMobileMenu, isScr
                                     className={`block py-2 md:px-3 font-mono text-lg ${path == '/projects' ? 'text-[var(--grey)] hover:text-white' : activeSection === section
                                         ? 'text-white'
                                         : 'text-[var(--grey)] hover:text-white'
-                                        } lg:bg-transparent lg:p-0`}
+                                        } xl:bg-transparent xl:p-0`}
                                 >
                                     <span className="text-[var(--accent)]">#</span>
                                     {section}
                                 </Link>
                             </li>
                         ))}
+                        {/* Your "HIRE ME" button is still here */}
                         <li className="my-3 md:my-0">
                             <a
                                 href={'mailto:' + email}
