@@ -115,14 +115,6 @@ A modern, single-page portfolio website built with **Next.js** and **Tailwind CS
 -   **SEO Optimization**: Includes meta tags, schema markup, and a sitemap to rank for your name (e.g., "Prateek Jaiswal").
 -   **Performance**: Uses server-side rendering for most components, with client-side interactivity isolated to specific features (e.g., filtering, scroll effects).
 
-📸 Screenshots
---------------
-
-### Homepage
-
-![Homepage Screenshot](https://i.ibb.co/0RThbyLD/screencapture-localhost-3000-2025-04-05-15-44-32.png)
-
-
 🤝 Contributing
 ---------------
 
