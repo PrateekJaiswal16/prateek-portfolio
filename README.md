@@ -1,7 +1,8 @@
 Prateek Jaiswal's Portfolio Website
 ===============================
 
-![Portfolio Preview](https://github.com/user-attachments/assets/245bf419-9562-4b43-93a4-19e167860cd0)\
+
+![Portfolio Preview](https://github.com/user-attachments/assets/ba04c874-dbd6-4942-8303-8d3de4fca6bb)\
 
 A modern, single-page portfolio website built with **Next.js** and **Tailwind CSS**, showcasing my skills, projects, and journey as a full-stack web developer. This project is designed to be easily customizable via a data.json file, allowing anyone to adapt it for their own portfolio by simply updating the data.
 
