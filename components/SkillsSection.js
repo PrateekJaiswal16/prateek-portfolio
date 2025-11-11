@@ -22,7 +22,7 @@ const SkillsSection = () => {
     <section id="skills" className="bg-black text-white py-6">
       <div className="mx-auto px-6 md:px-8 lg:px-16">
 
-        <SectionHeader title={'skills'} description={'Expert in Full Stack Development, Software Development and Blockchain Development.'} linkText={''} link={''} />
+        <SectionHeader title={'skills'} description={'Expert in Full Stack Development, Software Development and AI/ML Enthusiast'} linkText={''} link={''} />
 
         {/* Skills Rows */}
         <div className="space-y-4 mt-6 md:mt-24 px-0 md:px-8 lg:px-16 opacity-90">

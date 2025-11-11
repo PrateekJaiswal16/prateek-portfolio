@@ -129,9 +129,9 @@
                     "MongoDB"
                 ],
                 "category": "Full Stack",
-                "image": "/images/projects/",
-                "liveLink": "https://github.com/PrateekJaiswal16/Jumpster",
-                "githubLink": ""
+                "image": "/images/projects/jumpster.png",
+                "liveLink": "",
+                "githubLink": "https://github.com/PrateekJaiswal16/Jumpster"
             },
             {
                 "title": "Developer Portfolio Website",
