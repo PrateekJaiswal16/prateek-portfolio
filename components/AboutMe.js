@@ -9,7 +9,7 @@ const AboutMe = () => {
     return (
         <section id="about-me" className="bg-black text-white py-8">
             <div className="mx-auto px-6 md:px-8 lg:px-16">
-                <SectionHeader title={'about-me'} description={''} linkText={'read-more'} link={'/about'} />
+                <SectionHeader title={'about-me'} description={''} />
 
                 <div className="flex flex-col md:flex-row">
                     <div className="p-0 md:p-6 w-full xl:w-34/100">
