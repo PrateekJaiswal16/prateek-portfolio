@@ -63,7 +63,7 @@ export const metadata = {
     card: 'summary_large_image',
     title: 'Prateek Jaiswal | Full-Stack Web Developer Portfolio',
     description:
-      'Explore Vandit Shah’s portfolio, showcasing skills and projects in full-stack web development and blockchain.',
+      'Explore Prateek Jaiswal’s portfolio, showcasing skills and projects in full-stack web development and blockchain.',
     images: ['https://vandit-shah.me/images/og-image.png'],
   },
   robots: {
@@ -90,7 +90,7 @@ export default function RootLayout({ children }) {
               {
                 '@context': 'https://schema.org',
                 '@type': 'Person',
-                name: 'Vandit Shah',
+                name: 'Prateek Jaiswal',
                 jobTitle: 'Full-Stack Web Developer',
                 address: {
                   '@type': 'PostalAddress',
@@ -117,7 +117,7 @@ export default function RootLayout({ children }) {
               {
                 '@context': 'https://schema.org',
                 '@type': 'VideoObject',
-                name: 'Vandit Shah Portfolio Background Video',
+                name: 'Prateek Jaiswal Portfolio Background Video',
                 description:
                   'A background video showcasing Prateek Jaiswal’s portfolio, highlighting skills and projects in full-stack web development and blockchain.',
                 thumbnailUrl: 'https://vandit-shah.me/background/bg.png',

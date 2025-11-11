@@ -44,7 +44,7 @@ export default function ProjectsPage() {
                             '@type': 'ImageObject',
                             url: `https://vandit-shah.me${project.image}`,
                             name: `${project.title} Project Image`,
-                            caption: `${project.title} by Vandit Shah - ${project.category} Project`,
+                            caption: `${project.title} by Prateek Jaiswal - ${project.category} Project`,
                             associatedMedia: {
                                 '@type': 'WebPage',
                                 url: 'https://vandit-shah.me/projects',

@@ -90,7 +90,7 @@ const VideoBG = () => {
         height={0}
         sizes="100vw"
         style={{ width: '100%', height: '100%', display: showImage ? 'block' : 'none' }}
-        alt="Vandit Shah - Portfolio Background"
+        alt="Prateek Jaiswal - Portfolio Background"
         className="absolute z-10 w-full h-full max-h-screen object-cover rounded-2xl"
       />
     </div>

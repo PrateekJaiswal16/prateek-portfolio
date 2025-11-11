@@ -13,7 +13,7 @@ const IconsRow = (props) => {
                     height={0}
                     sizes="100vw"
                     style={{ width: '100%' }}
-                    alt={`Vandit Shah's Skill - ${getSkillName(skill)}`}
+                    alt={`Prateek Jaiswal's Skill - ${getSkillName(skill)}`}
                     className="w-18 h-18 object-contain"
                 />
                 {/* Tooltip */}

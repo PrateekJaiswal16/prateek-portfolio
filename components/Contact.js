@@ -24,7 +24,7 @@ const Contact = () => {
                         <a href={socialLinks.github} target='_blank'>
                             <Image
                                 src='https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/github-dark.svg'
-                                alt="Github Icon with Vandit Shah's Github Link"
+                                alt="Github Icon with Prateek Jaiswal's Github Link"
                                 height={37}
                                 width={37}
                                 className="object-contain"
@@ -33,7 +33,7 @@ const Contact = () => {
                         <a href={socialLinks.linkedin} target='_blank'>
                             <Image
                                 src='https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/linkedin-dark.svg'
-                                alt="Linkedin Icon with Vandit Shah's Linkedin Link"
+                                alt="Linkedin Icon with Prateek Jaiswal's Linkedin Link"
                                 height={40}
                                 width={40}
                                 className="object-contain"
