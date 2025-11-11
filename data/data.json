@@ -114,7 +114,7 @@
                 "category": "React",
                 "image": "/images/projects/IIITSurat.png",
                 "liveLink": "",
-                "githubLink": "https://github.com/ShahVandit8/nft_lending_contracts"
+                "githubLink": "https://github.com/PrateekJaiswal16"
             },
             {
                 "title": "Jumpster",
@@ -129,8 +129,8 @@
                     "MongoDB"
                 ],
                 "category": "Full Stack",
-                "image": "/images/projects/LMS.png",
-                "liveLink": "https://thedigitalworkstation.netlify.app/",
+                "image": "/images/projects/",
+                "liveLink": "https://github.com/PrateekJaiswal16/Jumpster",
                 "githubLink": ""
             },
             {
@@ -145,8 +145,8 @@
                 ],
                 "category": "React",
                 "image": "/images/projects/portfolio.png",
-                "liveLink": "https://vandit-shah.vercel.app/",
-                "githubLink": "https://github.com/ShahVandit8/portfolio"
+                "liveLink": "https://prateek-portfolio-seven.vercel.app/",
+                "githubLink": "https://github.com/PrateekJaiswal16/prateek-portfolio"
             }
         ],
         "certificates": [
